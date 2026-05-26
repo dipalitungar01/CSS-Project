@@ -1,0 +1,20 @@
+h1{
+    
+    color:green;
+}
+p{
+    color:red;
+}
+button{
+    color :purple;
+}
+body{
+
+background-color: skyblue;
+}
+button{
+    background-color: rgb(208, 116, 63)
+}
+*{
+    color:crimson;
+}

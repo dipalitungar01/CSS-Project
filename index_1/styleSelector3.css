@@ -1,0 +1,17 @@
+*{
+    color:red;
+}
+
+button{
+    color: rgb(92, 195, 32);
+}
+
+#headingOne {
+    color:blue;
+}
+#headingTwo{
+    color:green;
+}
+.myclass{
+    color: magenta;;
+}
