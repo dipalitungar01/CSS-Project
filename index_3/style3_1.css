@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-style: solid;
+    border-color: brown;
+    text-align: right;
+}
+h1{
+    width: 200;
+    height: 50px;
+    background-color: aquamarine;
+    border-style: dashed;
+    border-color:black ;
+    text-align: center; 
+    /* border: 3px dashed black; */
+}
